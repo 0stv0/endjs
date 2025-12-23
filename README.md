@@ -13,6 +13,11 @@ npm install endjs
 
 ---
 
+## 🌐 NPM Package
+[Link to the package](https://www.npmjs.com/package/endjs)
+
+---
+
 ## 📋 Documentation
 
 [Link to the documentation](https://www.endjs.pl/)
